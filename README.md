@@ -5,10 +5,8 @@
 ### AI Engineer • Full Stack Developer • Building Intelligent Software
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3200&pause=1200&color=00E7FF&center=true&vCenter=true&width=1000&lines=Building+Friday+AI;AI+Agents+%7C+RAG+%7C+Automation;React+Native+%7C+FastAPI+%7C+Next.js;Always+Learning+Always+Building" />
-
 <br/><br/>
 </div>
-
 ---
 
 # 💫 About Me:
