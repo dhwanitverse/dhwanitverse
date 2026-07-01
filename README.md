@@ -1,4 +1,22 @@
-# 💫 About Me:
+
+<div align="center">
+
+# 👋 Hi, I'm Dhwanit Prajapati
+
+### 🚀 AI Engineer • Full Stack Developer • AI Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI+Products;Creator+of+Friday+AI;React+Native+%7C+FastAPI+%7C+Python;AI+Agents+%7C+RAG+%7C+Automation;Always+Learning+Always+Building" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=dhwanitverse&style=for-the-badge&label=PROFILE+VIEWS&color=8B5CF6"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
 # 🚀 About Me<br><br>💡 I'm an AI-focused Full Stack Developer passionate about building intelligent software and beautiful user experiences.<br><br>🤖 Currently building **Friday AI**, a next-generation AI voice assistant with memory, intelligent agents, and automation.<br><br>📱 My primary tech stack includes **Python, React Native, FastAPI, Next.js, PostgreSQL, and JavaScript**.<br><br>🌱 Currently exploring **LLMs, AI Agents, RAG, MCP, and cloud technologies**.<br><br>🤝 Always open to collaborating on **AI, Open Source, and innovative software projects**.<br><br>🎯 My mission is to build AI products that solve real-world problems and improve everyday life.
 
 
@@ -25,3 +43,4 @@
 [![](https://komarev.com/ghpvc/?username=dhwanitverse&icon=9&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
