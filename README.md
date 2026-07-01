@@ -7,12 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3200&pause=1200&color=00E7FF&center=true&vCenter=true&width=1000&lines=Building+Friday+AI;AI+Agents+%7C+RAG+%7C+Automation;React+Native+%7C+FastAPI+%7C+Next.js;Always+Learning+Always+Building" />
 
 <br/><br/>
-
-<a href="https://github.com/dhwanitverse"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/dhwanitprajapati"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="mailto:dhwanit006@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-<a href="https://x.com/dhwanit006"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"/></a>
-
 </div>
 
 ---
