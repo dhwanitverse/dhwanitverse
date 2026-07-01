@@ -17,7 +17,7 @@
 
 # 💫 About Me
 
-# 🚀 About Me<br><br>💡 I'm an AI-focused Full Stack Developer passionate about building intelligent software and beautiful user experiences.<br><br>🤖 Currently building **Friday AI**, a next-generation AI voice assistant with memory, intelligent agents, and automation.<br><br>📱 My primary tech stack includes **Python, React Native, FastAPI, Next.js, PostgreSQL, and JavaScript**.<br><br>🌱 Currently exploring **LLMs, AI Agents, RAG, MCP, and cloud technologies**.<br><br>🤝 Always open to collaborating on **AI, Open Source, and innovative software projects**.<br><br>🎯 My mission is to build AI products that solve real-world problems and improve everyday life.
+💡 I'm an AI-focused Full Stack Developer passionate about building intelligent software and beautiful user experiences.<br><br>🤖 Currently building **Friday AI**, a next-generation AI voice assistant with memory, intelligent agents, and automation.<br><br>📱 My primary tech stack includes **Python, React Native, FastAPI, Next.js, PostgreSQL, and JavaScript**.<br><br>🌱 Currently exploring **LLMs, AI Agents, RAG, MCP, and cloud technologies**.<br><br>🤝 Always open to collaborating on **AI, Open Source, and innovative software projects**.<br><br>🎯 My mission is to build AI products that solve real-world problems and improve everyday life.
 
 
 ## 🌐 Socials:
