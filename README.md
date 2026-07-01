@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3200&pause=1200&color=00E7FF&center=true&vCenter=true&width=1000&lines=Building+Friday+AI;AI+Agents+%7C+RAG+%7C+Automation;React+Native+%7C+FastAPI+%7C+Next.js;Always+Learning+Always+Building" />
 <br/><br/>
 </div>
+
 ---
 
 # 💫 About Me:
@@ -36,7 +37,6 @@
 [![](https://komarev.com/ghpvc/?username=dhwanitverse&icon=4&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=dhwanitverse&label=Profile%20Views&color=00E7FF&style=flat-square"/>
