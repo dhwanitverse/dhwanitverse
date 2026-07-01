@@ -1,156 +1,95 @@
-<div align="center">
-
-# Hi 👋 I'm Dhwanit Prajapati
-
-### 🚀 AI Engineer • Full Stack Developer • Mobile App Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+AI+Products;Full+Stack+Developer;React+Native+%7C+FastAPI+%7C+Python;Always+Learning+Something+New" />
-
-<p>
-Building intelligent software that combines AI, beautiful UI, and real-world automation.
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=dhwanitverse&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
-
-</div>
-
+::: {align="center"}
+👋 Hi, I'm Dhwanit Prajapati
+🚀 AI Engineer • Full Stack Developer • AI Builder
+`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+AI+Products;Creator+of+Friday+AI;React+Native+%7C+FastAPI+%7C+Python;LLMs+%7C+Automation+%7C+Full+Stack;Always+Learning+Always+Building" />`{=html}
+`<img src="https://komarev.com/ghpvc/?username=dhwanitverse&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>`{=html}
+:::
 ---
-
-# 👨‍💻 About Me
-
-- 🤖 Building **Friday AI**
-- 📰 Building **NeuralWire**
-- 📈 Working on **StockSathi**
-- ⚡ Developing CRM & Automation Solutions
-- 📱 Love building premium mobile applications
-- 🌱 Currently learning AI Agents, RAG & LLM Engineering
-
+💫 About Me
+I'm passionate about building intelligent software, AI assistants and
+full‑stack products with clean UI/UX.
+🤖 Building Friday AI
+📰 Building NeuralWire
+📈 Working on StockSathi
+⚡ Creating AI & CRM Automation
+🌱 Learning AI Agents, RAG & LLM Engineering
+🇮🇳 Ahmedabad, India
 ---
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🤖 Friday AI | AI Voice Assistant built using FastAPI & React Native |
-| 📰 NeuralWire | Modern AI-powered Tech Blog Platform |
-| 📈 StockSathi | Intelligent Stock Analysis Platform |
-| ⚡ Zoho Automation | CRM Automation & Workflow Solutions |
-| 📷 Smart Attendance | Face Recognition Attendance System |
-
+🚀 Featured Projects
+Project               Description
 ---
-
-# 💻 Tech Stack
-
-### Languages
-
+🤖 Friday AI          AI Voice Assistant
+📰 NeuralWire         Modern AI Tech Blog
+📈 StockSathi         Stock Intelligence Platform
+⚡ Zoho Automation    CRM & Workflow Automation
+📷 Smart Attendance   Face Recognition Attendance
+---
+🛠 Tech Stack
+Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-
-### Backend
-
+Backend & Database
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-
-### Database
-
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-### Tools
-
+Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
+![VS](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ---
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhwanitverse&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhwanitverse&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=dhwanitverse&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhwanitverse&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhwanitverse&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Launch Friday AI
-- ✅ Build Production AI Agents
-- ✅ Master LLM Engineering
-- ✅ Build Open Source Projects
-- ✅ Contribute to AI Community
-
----
-
-# 📫 Connect With Me
-
+📊 GitHub Analytics
+```{=html}
 <p align="center">
-
-<a href="mailto:dhwanit006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/dhwanitverse">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<!-- Add your LinkedIn URL -->
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhwanitverse&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhwanitverse&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://streak-stats.demolab.com?user=dhwanitverse&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhwanitverse&theme=tokyo-night&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=dhwanitverse&theme=tokyonight&no-frame=true&row=1&column=6"/>`{=html}
+```{=html}
+</p>
+```
 ---
-
-<div align="center">
-
-## 💡 Quote
-
-> "Build products that solve real problems."
-
-⭐ Thanks for visiting my profile!
-
-</div>
+🎯 2026 Goals
+✅ Launch Friday AI
+✅ Open-source AI tools
+✅ Build production AI agents
+✅ Grow GitHub portfolio
+✅ Contribute to AI community
+---
+📫 Connect
+📧 Email: dhwanit006@gmail.com
+💼 LinkedIn: Add your LinkedIn URL
+🌐 Portfolio: Coming Soon
+---
+💭 Quote
+> **"Build products that solve real problems."**
+---
+::: {align="center"}
+⭐ If you like my work, consider starring my repositories!
+:::
